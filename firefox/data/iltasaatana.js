@@ -4,7 +4,7 @@
 			var defaults = {
 					excludeChildren: false,
 					beforeChars: ["\"", "?", "!"],
-					appendStr: "saatana",
+					appendStr: "perkele",
 					delimiter: " ",
 			};
 			var options = $.extend(defaults, options);
